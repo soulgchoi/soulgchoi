@@ -20,7 +20,7 @@
 
 - JavaScript, TypeScript, Python
 - React, Redux, Vue.js, Vuex, Django, Heroku
-- HTML & CSSBootStrap, Material-UI, Semantic-UI, Styled-components
+- HTML, CSS, BootStrap, Material-UI, Semantic-UI, Styled-components
 
 **⚡ 한 번 써봤어요.**
 
