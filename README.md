@@ -26,7 +26,7 @@
 
 **⚡ 한 번 써봤어요.**
 
-- Docker, TensorFlow, Numpy, HeidiSQL
+- Java, Docker, TensorFlow, Numpy, HeidiSQL
 
 **⚡ 발을 담가 보았어요.**
 
