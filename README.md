@@ -4,7 +4,7 @@
 
 #### ✨ 자기소개
 
-**💻 개발 2년차 2019.07 ~ 진행중** 
+**💻 개발 3년차 2019.07 ~ 진행중** 
 
 👩‍💻 적극적 구직활동중 & 우아한 테크코스 3기 BE 진행중
 
@@ -20,18 +20,19 @@
 
 **⚡ 개발 경험이 있어요.**
 
-- JavaScript, TypeScript, Python
-- React, Redux, Vue.js, Vuex, Django, Heroku
+- JavaScript, TypeScript, Python, Java
+- React, Redux, Vue.js, Vuex, Django, Spring Boot
+- MySQL, Heroku, AWS EC2, Jenkins
 - HTML, CSS, BootStrap, Material-UI, Semantic-UI, Styled-components
 
 **⚡ 한 번 써봤어요.**
 
-- Java, Docker, TensorFlow, Numpy, HeidiSQL
+- Docker, TensorFlow, Numpy, HeidiSQL
 
 **⚡ 발을 담가 보았어요.**
 
-- Sass/SCSS, MySQL, PostgreSQL, AWS EC2
+- Sass/SCSS, PostgreSQL
 
 **⚡ 협업할 수 있어요.**
 
-- Git, Gitlab, Zoom, Webex
+- Git, Gitlab, Zoom, Webex, Jira
