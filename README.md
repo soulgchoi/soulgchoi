@@ -20,14 +20,14 @@
 
 **⚡ 개발 경험이 있어요.**
 
-- JavaScript, TypeScript, Python, Java
-- React, Redux, Vue.js, Vuex, Django, Spring Boot
-- MySQL, Heroku, AWS EC2, Jenkins
+- Java, JavaScript, TypeScript, Python
+- Spring Boot, Spring Data JPA, React, Redux, Vue.js, Vuex, Django
+- AWS EC2 & S3 & CloudFront, Jenkins, Github Actions, MySQL, Heroku, Docker
 - HTML, CSS, BootStrap, Material-UI, Semantic-UI, Styled-components
 
 **⚡ 한 번 써봤어요.**
 
-- Docker, TensorFlow, Numpy, HeidiSQL
+- TensorFlow, Numpy, HeidiSQL
 
 **⚡ 발을 담가 보았어요.**
 
