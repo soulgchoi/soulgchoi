@@ -4,9 +4,13 @@
 
 #### ✨ 자기소개
 
-**💻 개발 3년차 2019.07 ~ 진행중** 
+**💻 개발 3년차 2019.07 ~ 진행중**
 
-👩‍💻 적극적 구직활동중 & 우아한 테크코스 3기 BE 진행중
+- 우아한테크코스 백엔드 3기 (2021.02 ~ 2021.11)
+
+- 삼성 청년 SW 아카데미(SSAFY) 2기 (2019.07 ~ 2020.06)
+
+🔥 적극적 구직활동중 
 
 🏫 철학 / 국어국문학 전공
 
@@ -25,14 +29,6 @@
 - AWS EC2 & S3 & CloudFront, Jenkins, Github Actions, MySQL, Heroku, Docker
 - HTML, CSS, BootStrap, Material-UI, Semantic-UI, Styled-components
 
-**⚡ 한 번 써봤어요.**
-
-- TensorFlow, Numpy, HeidiSQL
-
-**⚡ 발을 담가 보았어요.**
-
-- Sass/SCSS, PostgreSQL
-
 **⚡ 협업할 수 있어요.**
 
-- Git, Gitlab, Zoom, Webex, Jira
+- Git, Gitlab, Jira
